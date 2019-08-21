@@ -1,0 +1,15 @@
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Form1.resources
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Properties.Resources.resources
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\omer.pece\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
